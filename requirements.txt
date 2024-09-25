@@ -1,0 +1,11 @@
+langchain-community
+langchain
+langchain-aws
+langchain-core
+langchainhub
+boto3
+duckduckgo-search
+faiss-cpu
+httpx
+streamlit
+
